@@ -1,11 +1,11 @@
 ### Hi there, Christofmeg here! 👋
 I like to create and develop [<img alt="Minecraft" width="16px" src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/512/minecraft-icon.png"/>](https://www.minecraft.net/) mods :sparkles:
 <br/>
-
-
+<br/>
 
 ### IDEs
 [<img align="left" alt="Intellij" width="32px" src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/512/intellij-icon.png"/>](https://www.jetbrains.com/idea/)[<img align="left" alt="Eclipse" width="32px" src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/512/eclipse-icon.png"/>](https://www.eclipse.org)
+<br/>
 <br/>
 
 ### Mods
