@@ -15,12 +15,11 @@ I like to create and develop [<img alt="Minecraft" width="16px" src="https://ico
 | <a href="https://github.com/Christofmeg/IC2C-UU-Matter">IC2C UU-Matter</a>| <a href="https://www.curseforge.com/minecraft/mc-mods/ic2cuumatter"><img src="http://cf.way2muchnoise.eu/versions/827219.svg" style="max-width:100%;"></a> | <div align="center"><a href="https://www.curseforge.com/minecraft/mc-mods/ic2cuumatter"><img src="https://cf.way2muchnoise.eu/827219.svg" style="max-width:100%;"></a> </div>| <div  align="center"><a href="https://modrinth.com/mod/ic2cuumatter"><img src="https://img.shields.io/modrinth/dt/FOVCOVzb" style="max-width:100%;"></a></div> 
 | <a href="https://github.com/Christofmeg/IC2X-UU-Matter">IC2X UU-Matter</a>| <a href="https://www.curseforge.com/minecraft/mc-mods/ic2xuumatter"><img src="http://cf.way2muchnoise.eu/versions/851120.svg" style="max-width:100%;"></a> | <div align="center"><a href="https://www.curseforge.com/minecraft/mc-mods/ic2xuumatter"><img src="https://cf.way2muchnoise.eu/851120.svg" style="max-width:100%;"></a> </div>| <div  align="center"><a href="https://modrinth.com/mod/ic2xuumatter"><img src="https://img.shields.io/modrinth/dt/47X9IMcP" style="max-width:100%;"></a></div> 
 <!---
-<br/>
 </div>
-
 
 "Something went wrong! file an issue at https://tiny.one/readme-stats
 Maximum retries exceeded Please add an env variable called PAT_1 with your github token in vercel"
 -->
+  <br/>
 ![Christofmeg's GitHub stats](https://github-readme-stats.vercel.app/api?username=Christofmeg&show_icons=true&theme=transparent)
 
